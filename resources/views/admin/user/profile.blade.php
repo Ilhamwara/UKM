@@ -49,8 +49,8 @@
                             <div class="content">
                                 <div class="author">
                                     <img class="avatar border-white" src="{{asset('img/faces/face-2.jpg')}}" alt="..."/>
-                                    <h4 class="title">Ilham Wara Nugroho<br />
-                                     <a href="#"><small>123112700650023</small></a>
+                                    <h4 class="title">Admin<br />
+                                     <a href="#"><small>421523415142</small></a>
                                  </h4>
                              </div>
                              <p class="description text-center">

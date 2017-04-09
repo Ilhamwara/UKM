@@ -60,8 +60,8 @@
                                     <tbody>
                                         <tr>
                                             <td class="text-center">1</td>
-                                            <td class="text-center">123112700650023</td>
-                                            <td class="text-center">Ilham Wara Nugroho</td>
+                                            <td class="text-center">12561251752</td>
+                                            <td class="text-center">Admin</td>
                                             <td class="text-center">Sistem Informasi</td>
                                             <td class="text-center">FTKI</td>
                                             <td class="text-center">
